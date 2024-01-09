@@ -1,0 +1,12 @@
+.red-text {
+  color: red;
+}
+.body {
+  background-image: url(../images/κατάλογος.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.background-color {
+  background-color: orange;
+}
